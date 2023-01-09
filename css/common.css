@@ -1,0 +1,17 @@
+@charset "UTF-8";
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;    
+    list-style-type: none;
+    font-style: normal;
+    font-size: 16px;
+    color: #333;
+}
+html,body{
+    width: 1000px;
+    height: 700px;
+    margin: 0 auto;
+}
